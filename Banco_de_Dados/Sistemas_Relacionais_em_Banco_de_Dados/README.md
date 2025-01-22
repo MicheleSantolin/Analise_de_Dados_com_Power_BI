@@ -25,4 +25,18 @@ Criar o esquema conceitual para o contexto de uma oficina mecânica com base na 
 - Cada veículo é designado a uma equipe de mecânicos que identifica os serviços, gera a ordem de serviço (OS) e define a data de entrega.  
 - O cálculo da OS considera uma tabela de referência de mão de obra e o valor das peças.  
 - Os mecânicos possuem informações de código, nome, endereço e especialidade.  
-- Cada OS possui número, data de emissão, valor, status e data de conclusão.  
+- Cada OS possui número, data de emissão, valor, status e data de conclusão.
+
+## Certificações
+
+1 - Projeto Conceitual: Banco de Dados E-Commerce
+
+
+![Imagem_Certificado_Refiando_E-Commerce](https://github.com/user-attachments/assets/d50257fd-3c23-4e46-b4c6-bf31070b4216)
+
+
+
+2 - Projeto Conceitual: Oficina Mecânica
+
+![Imagem_Contruindo_Esquema_Conceitual](https://github.com/user-attachments/assets/22683b41-5767-4efd-8d33-0759fa0beae7)
+
