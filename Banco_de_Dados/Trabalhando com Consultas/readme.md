@@ -485,4 +485,10 @@ Este projeto demonstra a aplicação prática de um modelo lógico de banco de d
 
 ---
 
+## **Certificação:**
+
+![Imagem_Construindo_Primeiro_Projeto_Logico_BD](https://github.com/user-attachments/assets/9d043349-06a2-445b-b430-dc61533ffac1)
+
+
+
 ## **FIM**
