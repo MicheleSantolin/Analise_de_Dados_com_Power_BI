@@ -3,7 +3,7 @@
 Este repositório contém a modelagem lógica de um banco de dados para um cenário de e-commerce, bem como o script SQL para criação do esquema do banco de dados(Criando_banco.sql), persistência de dados (populando_banco.sql) e queries complexas (Queries_Desafio.sql) para análise dos dados.
 
 
-**O modelo relacional utilizado neste projeto está localizado na pasta [Banco_de_Dados/Sistemas_Relacionais_em_Banco_de_Dados/Projeto_Conceitual_Banco_de_Dados_E-Commerce](Banco_de_Dados/Sistemas_Relacionais_em_Banco_de_Dados/Projeto_Conceitual_Banco_de_Dados_E-Commerce.pdf).**
+**O modelo relacional utilizado neste projeto está localizado na pasta Sistema_Relacionais_em_Banco_de_Dados, no arquivo "Projeto_Conceitual_Banco_de_Dados_E-Commerce"**
 
 ---
 
