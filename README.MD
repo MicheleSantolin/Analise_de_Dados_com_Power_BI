@@ -74,3 +74,7 @@ A terceira página consolida as informações de lucros e vendas por país e seg
 3. **Soma de Lucro por**:
    - O gráfico tráz a soma dos lucros separados por segmento. Os segmentos analisados incluem "Government", "Small Business", "Channel Partners", "Midmarket" e "Enterprise".
 
+<video src="https://github.com/user-attachments/assets/5c4491d4-7372-4aae-a8f1-8310b213889d" controls="controls" style="max-width: 100%;">
+    Seu navegador não suporta vídeos.
+</video>
+
